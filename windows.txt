@@ -1,0 +1,90 @@
+For Windows user setting.json
+
+{
+  "editor.fontSize": 17,
+  "editor.tabSize": 2,
+  "editor.fontFamily": "'JetBrains Mono', Consolas, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "editor.guides.bracketPairs": true,
+  "editor.guides.bracketPairsHorizontal": true,
+  "editor.wordWrap": "on",
+  "editor.cursorBlinking": "phase",
+  "editor.minimap.enabled": false,
+  "editor.smoothScrolling": true,
+  "editor.scrollBeyondLastLine": true,
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.inlineSuggest.enabled": true,
+  "explorer.compactFolders": false,
+  "editor.bracketPairColorization.enabled": true,
+
+  "workbench.colorCustomizations": {
+    "editorBracketHighlight.foreground1": "#dd0531",
+    "editorBracketHighlight.foreground2": "#007fff",
+    "editorBracketHighlight.foreground3": "#f9e64f",
+    "editorBracketHighlight.foreground4": "#1857a4",
+    "editorBracketHighlight.foreground5": "#215732",
+    "editorBracketHighlight.foreground6": "#61dafb",
+    "editorBracketHighlight.foreground7": "#00C7B7",
+    "editorBracketHighlight.foreground8": "#ff3d00",
+    "editorBracketHighlight.foreground9": "#42b883",
+    "terminalCursor.foreground": "#E7B48B",
+    "scrollbar.shadow": "#00000000",
+    "editorOverviewRuler.border": "#00000000",
+    "editorGroupHeader.tabsBorder": "#00000000",
+    "tab.border": "#00000000"
+  },
+
+  "workbench.colorTheme": "Vesper",
+  "workbench.iconTheme": "symbols",
+  "workbench.productIconTheme": "fluent-icons",
+
+  // 🖥️ Windows Terminal Setup
+  "terminal.integrated.defaultProfile.windows": "Command Prompt",
+
+  // 🍎 Mac Terminal Setup
+  "terminal.integrated.defaultProfile.osx": "zsh",
+  "terminal.integrated.env.osx": {
+    "FIG_NEW_SESSION": "1"
+  },
+
+  "terminal.integrated.stickyScroll.enabled": true,
+  "terminal.integrated.enableMultiLinePasteWarning": "never",
+  "terminal.integrated.fontSize": 15,
+  "terminal.integrated.fontWeight": "normal",
+  "terminal.integrated.tabs.enabled": false,
+  "terminal.integrated.lineHeight": 1.2,
+  "terminal.integrated.fontFamily": "'JetBrains Mono', Consolas, 'Courier New', monospace",
+
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": "comment",
+        "settings": {
+          "fontStyle": "italic"
+        }
+      }
+    ]
+  },
+
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 1500,
+  "search.followSymlinks": false,
+  "search.useIgnoreFiles": true,
+  "search.quickOpen.includeSymbols": true,
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "typescript.updateImportsOnFileMove.enabled": "always"
+}

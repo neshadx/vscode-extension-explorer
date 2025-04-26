@@ -1,0 +1,117 @@
+		Themes & Icons
+ Andromeda [Eliver Lara]
+ Aura Spirit Dracula Theme [JoseMurilloc]
+ Learn with Sumit Theme [Learn with Sumit]
+ GitHub Theme [GitHub]
+ codeSTACKr Theme [codestackr]
+ Material Icon Theme [Philipp Kief]
+ vscode-icons [VSCode Icons Team] 
+ Fluent Icons [Miguel Solorio] ✔
+ Vesper [Rauno Freiberg] ✔
+ poimandres [poimandres]
+ Symbols [Miguel Solorio] ✔
+
+
+	 Code Formatting & Linting
+Prettier - Code Formatter [Prettier] ✔
+ESLint [Microsoft] ✔
+Better Comments [Aaron Bond] ✔
+markdownlint [David Anson]
+Code Spell Checker [Street Side Software] ✔
+
+
+	 HTML & CSS Support
+ HTML CSS Support [ecmel] ✔
+ Tailwind CSS IntelliSense [Tailwind Labs] ✔
+ HTML End Tag Labels [Ante Primorac] ✔
+
+
+	JavaScript & React
+ JavaScript (ES6) code snippets [charalampos karypidis] ✔
+ React Extension Pack [Rajbir Jawanda] ✔
+ Reactjs Code Snippets [charalampos karypidis] ✔
+
+
+
+	Live Preview & Server Tools
+ Live Server [Ritwick Dey] ✔
+ Live Preview [Microsoft] ✔
+ Path Autocomplete [Mihai Vilcu] ✔
+ Path Intellisense [Christian Kohler] ✔
+ npm Intellisense [Christian Kohler] ✔
+ Image preview [Kiss Tamás]
+ JSON Viewer [Mr.Che] ✔
+
+
+
+
+	Debugging & Development Tools
+ Debugger for Firefox [Firefox DevTools]
+ Docker [Microsoft] ✔
+ Docker DX [Docker] ✔
+ Error Lens [Alexander] ✔
+ REST Client [Huachao Mao] ✔
+ Thunder Client [Thunder Client] ✔
+ Console Ninja [Wallaby.js] ✔
+ Excalidraw [pomdtr] ✔
+
+
+
+	Productivity & Workflow
+ Auto Close Tag [Jun Han] ✔
+ Auto Rename Tag [Jun Han] ✔
+ Bracket Pair Colorization Toggler [Dzhavat Ushev] 
+ Bracket Pair Color DLW [Bracket Pair Color DLW] 
+ CodeSnap [adpyke] ✔
+ Code Runner [Jun Han] ✔
+ WakaTime [WakaTime] ✔
+ Search node_modules [Jason Nutter]
+ Multiple Cursor Case Preserve [Cardinal90] ✔
+ Template String Converter [meganrogge] ✔
+ indent-rainbow [oderwat]
+ vscode-pets [Anthony Shaw] ✔
+ Color Highlight [Sergii N] ✔
+ SuperHero Extension Pack [codestackr]
+
+
+
+	Database & Server Tools
+ Microsoft Edge Tools for VS Code [Microsoft] ✔
+ Mintlify Doc Writer for Python, JavaScript, TypeScript, C++, PHP, Java, C#, R [Mintlify] ✔
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
