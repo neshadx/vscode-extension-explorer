@@ -83,5 +83,12 @@
 
   "terminal.integrated.env.windows": {},
   "console-ninja.featureSet": "Community",
-  
+
+
+  "editor.codeActionsOnSave": {
+  "source.fixAll.eslint": "always"
+},
+  "editor.formatOnSave": true
+
+
 }
