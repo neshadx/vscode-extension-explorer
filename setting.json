@@ -1,0 +1,68 @@
+{
+  "editor.fontSize": 17,
+  "editor.tabSize": 2,
+  // "window.zoomLevel": 1,
+  "editor.fontFamily": " 'JetBrains Mono', Consolas, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "editor.guides.bracketPairs": true,
+  "editor.guides.bracketPairsHorizontal": true,
+  "editor.wordWrap": "on",
+  "editor.cursorBlinking": "phase",
+  "explorer.compactFolders": false,
+  "editor.bracketPairColorization.enabled": true,
+
+  // "git.decorations.enabled": false,
+  "workbench.colorCustomizations": {
+    "editorBracketHighlight.foreground1": "#dd0531",
+    "editorBracketHighlight.foreground2": "#007fff",
+    "editorBracketHighlight.foreground3": "#f9e64f",
+    "editorBracketHighlight.foreground4": "#1857a4",
+    "editorBracketHighlight.foreground5": "#215732",
+    "editorBracketHighlight.foreground6": "#61dafb",
+    "editorBracketHighlight.foreground7": "#00C7B7",
+    "editorBracketHighlight.foreground8": "#ff3d00",
+    "editorBracketHighlight.foreground9": "#42b883",
+    "terminalCursor.foreground": "#E7B48B",
+    "scrollbar.shadow": "#00000000",
+    "editorOverviewRuler.border": "#00000000",
+    "editorGroupHeader.tabsBorder": "#00000000",
+    "tab.border": "#00000000"
+  },
+  "terminal.integrated.defaultProfile.windows": "Command Prompt",
+  "terminal.integrated.stickyScroll.enabled": true,
+  "terminal.integrated.enableMultiLinePasteWarning": "never",
+  "terminal.integrated.fontSize": 15,
+  "terminal.integrated.fontWeight": "normal",
+  "terminal.integrated.tabs.enabled": false,
+  "terminal.integrated.lineHeight": 1.2,
+  "terminal.integrated.fontFamily": "'JetBrains Mono', Consolas, 'Courier New', monospace",
+  "terminal.integrated.defaultProfile.osx": "zsh",
+  "terminal.integrated.env.osx": {
+    "FIG_NEW_SESSION": "1"
+  },
+  
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": "comment",
+        "settings": {
+          "fontStyle": "italic"
+        }
+      }
+    ]
+  },
+  "workbench.iconTheme": "symbols",
+  "workbench.productIconTheme": "fluent-icons",
+  "workbench.colorTheme": "Vesper",
+  
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "terminal.integrated.env.windows": {},
+  "console-ninja.featureSet": "Community",
+
+
+}
