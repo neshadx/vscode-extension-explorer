@@ -1,7 +1,7 @@
 {
-  "editor.fontSize": 18,
+  "editor.fontSize": 17,
   "editor.tabSize": 2,
-  // "window.zoomLevel": 1,
+  "window.zoomLevel": 0.5,
   "editor.fontFamily": " 'Dank Mono', Consolas, 'Courier New', monospace",
   "editor.fontLigatures": true,
   "editor.guides.bracketPairs": "active",
@@ -9,7 +9,9 @@
   "editor.wordWrap": "on",
   "editor.minimap.enabled": false,
   "editor.smoothScrolling": true,
-  "editor.scrollBeyondLastLine": true,
+  "editor.scrollBeyondLastLine": false,
+  // "editor.scrollbar.horizontal": "auto",
+  // "editor.scrollbar.vertical": "auto",
   "editor.cursorSmoothCaretAnimation": "on",
   "editor.inlineSuggest.enabled": true,
   "editor.cursorBlinking": "phase",
@@ -36,7 +38,7 @@
   "terminal.integrated.defaultProfile.windows": "Command Prompt",
   "terminal.integrated.stickyScroll.enabled": true,
   "terminal.integrated.enableMultiLinePasteWarning": "never",
-  "terminal.integrated.fontSize": 17,
+  "terminal.integrated.fontSize": 15,
   "terminal.integrated.fontWeight": "normal",
   "terminal.integrated.tabs.enabled": false,
   "terminal.integrated.lineHeight": 1.2,
@@ -58,7 +60,9 @@
   },
   "workbench.iconTheme": "symbols",
   "workbench.productIconTheme": "fluent-icons",
-  "workbench.colorTheme": "Vesper",
+  // "workbench.colorTheme": "Vesper",
+  //  "workbench.colorTheme": "poimandres",
+  "workbench.colorTheme": "Learn with Sumit - Vintage",
   "files.autoSave": "afterDelay",
   "files.autoSaveDelay": 1500,
   "search.followSymlinks": false,
@@ -91,3 +95,4 @@
   "editor.formatOnSave": true
 
 }
+
