@@ -92,7 +92,11 @@
   "editor.codeActionsOnSave": {
   "source.fixAll.eslint": "always"
 },
-  "editor.formatOnSave": true
+  "editor.formatOnSave": true,
+  "workbench.startupEditor": "none",
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
 
 }
 
