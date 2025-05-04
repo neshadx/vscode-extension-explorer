@@ -96,7 +96,8 @@
   "workbench.startupEditor": "none",
   "[css]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
+  },
+  "workbench.activityBar.location": "top"
 
 }
 
